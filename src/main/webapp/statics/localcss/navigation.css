@@ -1,0 +1,26 @@
+body{
+    margin-top: 65px;
+}
+.col-md-2{
+    background-color: #ccc;
+    /*?*/
+    height: 600px;
+}
+#left-content{
+    margin-top: 20px;
+}
+.list-group{
+    padding-left: 0;
+}
+#panel-group{
+    margin-top: 20px;
+}
+#onebtn{
+    margin: 10px 0;
+}
+#btngroup button{
+    width: 100%;
+}
+.progress{
+    margin-top: 15px;
+}
